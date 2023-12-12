@@ -26,7 +26,7 @@ header,
 }
 
 .hero{
-    background-color: var(--bg-hero);
+    
 }
 
 h1,
@@ -35,3 +35,17 @@ h2,
     text-transform: uppercase;
 }
 
+.line-black{
+    border: 2px solid var(--bg-header);
+    width: 50px;
+}
+
+.line-white{
+    border: 2px solid var(--white-text);
+    width: 50px;
+}
+
+.circle-around{
+    border: 1px solid white;
+    
+}
