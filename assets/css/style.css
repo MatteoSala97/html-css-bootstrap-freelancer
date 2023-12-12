@@ -8,7 +8,7 @@ Ex-ex-large	    xxl	        ≥1400px
 *************************************/
 
 *{
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 :root{
@@ -39,3 +39,4 @@ h2,
     width: 50%;
     margin: 0 auto;
 }
+
